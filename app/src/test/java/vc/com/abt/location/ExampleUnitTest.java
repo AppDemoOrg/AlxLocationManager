@@ -1,4 +1,4 @@
-package vc.zz.qduxsh.alxlocationmanager;
+package vc.com.abt.location;
 
 import org.junit.Test;
 
